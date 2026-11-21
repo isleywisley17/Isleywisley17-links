@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>ISLEYWISLEY17 Social Links</title>
+
+<style>
+body {
+    background: #101827;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: #00e5ff;
+}
+
+p {
+    color: #cccccc;
+}
+
+a {
+    display: block;
+    padding: 17px;
+    margin: 15px auto;
+    max-width: 350px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.tiktok { background: #222222; }
+.instagram { background: #C13584; }
+.facebook { background: #1877F2; }
+.youtube { background: #E62117; }
+
+</style>
+</head>
+
+<body>
+
+<h1>ISLEYWISLEY17</h1>
+
+<p>Welcome to my social media world!</p>
+
+<a class="tiktok"
+href="https://www.tiktok.com/@YOURUSERNAME"
+target="_blank" rel="noopener noreferrer">
+TikTok
+</a>
+
+<a class="instagram"
+href="https://www.instagram.com/YOURUSERNAME/"
+target="_blank" rel="noopener noreferrer">
+Instagram
+</a>
+
+<a class="facebook"
+href="https://www.facebook.com/YOURUSERNAME"
+target="_blank" rel="noopener noreferrer">
+Facebook
+</a>
+
+<a class="youtube"
+href="https://www.youtube.com/@YOURCHANNEL"
+target="_blank" rel="noopener noreferrer">
+YouTube
+</a>
+
+</body>
+</html>
